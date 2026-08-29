@@ -1,0 +1,3 @@
+numpy>=1.26
+openvr>=2.6
+rerun-sdk>=0.30
